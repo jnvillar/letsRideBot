@@ -1,4 +1,4 @@
-# letsRideBo
+# letsRideBot
 
 LetsRideBot is a telegram bot that helps you decide who, in a group, is going to travel in your car. 
 
